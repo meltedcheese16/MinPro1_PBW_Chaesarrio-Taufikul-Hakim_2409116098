@@ -17,6 +17,7 @@ Website portofolio pribadi yang menampilkan profil, keterampilan, pengalaman, da
 ---
 
 ## 📁 Struktur File
+<pre>
 portfolio-chaesarrio/
 │
 ├── 📄 index.html              # File utama website
@@ -30,7 +31,7 @@ portfolio-chaesarrio/
 │   └── 📁 pdf/
 │       ├── 📄 sertifikat1.pdf # Sertifikat Web Development
 │       ├── 📄 sertifikat2.pdf # Sertifikat Database
-│       └── 📄 sertifikat6.pdf # Sertifikat UI/UX Design
+│       └── 📄 sertifikat6.pdf # Sertifikat UI/UX Design</pre>
 
 
 
